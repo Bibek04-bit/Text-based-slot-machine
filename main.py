@@ -1,3 +1,5 @@
+
+#deposit money for betting
 def deposit():
     while True: 
         amount = input("What amount would you like to deposit? Rs")
